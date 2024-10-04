@@ -1,4 +1,4 @@
-package ch.heigvd.amt;
+package ch.heigvd.amt.resource;
 
 import io.quarkus.qute.Template;
 import io.quarkus.qute.TemplateInstance;
